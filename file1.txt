@@ -11,3 +11,5 @@ Change : "Changes from team members"
 Change : "Bug1  is fixed"
 
 Change : "Bug2  is fixed"
+
+Change : "Change to check rebase from team-mate"
