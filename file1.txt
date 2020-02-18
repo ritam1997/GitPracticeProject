@@ -4,4 +4,6 @@ Change : "This is change for login and update code"
 
 Change : "This is change for logout"
 
-Change : "Bug  is fixed"
+Change : "Bug1  is fixed"
+
+Change : "Bug2  is fixed"
